@@ -11,4 +11,4 @@ function getFeedback(score, name) {
     alert(`გილოცავ ${name} თქვენ მიიღეთ ძალიან კარგი შედეგი`);
   }
 }
-getFeedback(51, "giorgi");
+getFeedback(70, "giorgi");
